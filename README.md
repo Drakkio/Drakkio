@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho como Operador de Maquina
 - 🌱 Git/Git Hub, Python, C, C++, Power BI, Macro VBA
-- 🏆 Empresa que quero alcançar: Santander
+- 🏆 Em busca de um estagio
 - 🧑‍🎓 Analise e Desenvolvimento de Sistemas.
 - 📫 DanielpapereiraSA@gmail.com
 - 🎂 Meu aniversario 13/05
